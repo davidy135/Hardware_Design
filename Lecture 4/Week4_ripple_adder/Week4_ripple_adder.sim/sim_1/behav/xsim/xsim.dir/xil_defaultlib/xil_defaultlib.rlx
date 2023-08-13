@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/afs/ee.cooper.edu/user/d/david.yang/Week4_ripple_adder/Week4_ripple_adder.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Week4_ripple_adder/Week4_ripple_adder.srcs/sim_1/new/adder3in_tb.v,1632597428,verilog,,,,adder3in_tb,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Week4_ripple_adder/Week4_ripple_adder.srcs/sources_1/new/adder4bit.v,1632597503,verilog,,/afs/ee.cooper.edu/user/d/david.yang/Week4_ripple_adder/Week4_ripple_adder.srcs/sim_1/new/adder3in_tb.v,,adder3in;adder4bit,,,,,,,,

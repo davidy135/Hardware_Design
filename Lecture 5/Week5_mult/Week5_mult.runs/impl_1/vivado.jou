@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 30 16:26:17 2021
+# Process ID: 1733
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 5/Week5_mult/Week5_mult.runs/impl_1
+# Command line: vivado -log multiplier_2x2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source multiplier_2x2.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 5/Week5_mult/Week5_mult.runs/impl_1/multiplier_2x2.vdi
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 5/Week5_mult/Week5_mult.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source multiplier_2x2.tcl -notrace

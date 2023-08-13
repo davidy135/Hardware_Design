@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/MIPS/MIPS.sim/sim_1/impl/func/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/MIPS/MIPS.sim/sim_1/impl/func/xsim/tb_func_impl.vhd,1635906449,vhdl,,,,adder;adder_0;alu;data_mem;data_path;flop_r;mips;registers;top,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/MIPS/MIPS.srcs/sim_1/new/tb.sv,1635832721,systemVerilog,,,,tb,,,,,,,,

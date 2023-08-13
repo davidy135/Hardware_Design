@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Dec  1 19:59:23 2021
+# Process ID: 23027
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/custom_counter/custom_counter.runs/synth_1
+# Command line: vivado -log custom_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source custom_counter.tcl
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/custom_counter/custom_counter.runs/synth_1/custom_counter.vds
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/custom_counter/custom_counter.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source custom_counter.tcl -notrace

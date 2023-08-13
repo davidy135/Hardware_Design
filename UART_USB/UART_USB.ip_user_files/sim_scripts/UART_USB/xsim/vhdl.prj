@@ -1,0 +1,7 @@
+vhdl xil_defaultlib  \
+"../../../../UART_USB.srcs/sources_1/bd/UART_USB/ip/UART_USB_axi_gpio_0_0/sim/UART_USB_axi_gpio_0_0.vhd" \
+"../../../../UART_USB.srcs/sources_1/bd/UART_USB/ip/UART_USB_axi_gpio_1_0/sim/UART_USB_axi_gpio_1_0.vhd" \
+"../../../../UART_USB.srcs/sources_1/bd/UART_USB/ip/UART_USB_rst_ps7_0_100M_0/sim/UART_USB_rst_ps7_0_100M_0.vhd" \
+"../../../../UART_USB.srcs/sources_1/bd/UART_USB/sim/UART_USB.vhd" \
+
+nosort

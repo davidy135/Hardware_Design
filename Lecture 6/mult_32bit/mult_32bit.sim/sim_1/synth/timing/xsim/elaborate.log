@@ -1,0 +1,26 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /opt/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 69d93dec5dd14fe79f15ad828e8c7751 --incr --debug typical --relax --mt 8 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot mult32_tb_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.mult32_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 33 differs from formal bit length 64 for port 'out' [/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/mult_32bit/mult_32bit.srcs/sim_1/new/mult32_tb.v:33]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "mult32_tb_time_synth.sdf", for root module "mult32_tb/ttu1".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "mult32_tb_time_synth.sdf", for root module "mult32_tb/ttu1".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.CARRY4
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module simprims_ver.FDRE_default
+Compiling module simprims_ver.DSP48E1(ALUMODEREG=0,CARRYINREG=...
+Compiling module simprims_ver.DSP48E1(ACASCREG=0,ALUMODEREG=0,...
+Compiling module simprims_ver.DSP48E1(ALUMODEREG=0,CARRYINREG=...
+Compiling module xil_defaultlib.mult
+Compiling module xil_defaultlib.mult32_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot mult32_tb_time_synth

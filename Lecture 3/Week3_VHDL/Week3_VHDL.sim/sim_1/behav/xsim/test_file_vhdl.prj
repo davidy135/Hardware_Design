@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Week3_VHDL.srcs/sources_1/new/Week3_VHDL.vhd" \
+"../../../../Week3_VHDL.srcs/sim_1/new/test_file.vhd" \
+
+# Do not sort compile order
+nosort

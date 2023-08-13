@@ -1,0 +1,12 @@
+
+{ 
+    crc :  4086450072760699226  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto a5654454d6cc4271ad4098761f9abea1 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot custom_counter_behav xil_defaultlib.custom_counter xil_defaultlib.glbl" , 
+    buildDate : "May 24 2019" , 
+    buildTime : "14:51:52" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/custom_counter_behav/xsimk\"   \"xsim.dir/custom_counter_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/custom_counter_behav/obj/xsim_1.lnx64.o\" -L\"/opt/xilinx/Vivado/2019.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Sep 22 15:42:16 2021
+# Process ID: 6284
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week3_VHDL/Week3_VHDL.runs/impl_1
+# Command line: vivado -log Week3_VHDL.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Week3_VHDL.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week3_VHDL/Week3_VHDL.runs/impl_1/Week3_VHDL.vdi
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week3_VHDL/Week3_VHDL.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source Week3_VHDL.tcl -notrace

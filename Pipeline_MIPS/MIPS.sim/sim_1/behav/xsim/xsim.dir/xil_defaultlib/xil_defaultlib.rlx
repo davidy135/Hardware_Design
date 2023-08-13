@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sim_1/new/tb.sv,1635906552,systemVerilog,,,,tb,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/ALU.sv,1635908648,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/ALU_decoder.sv,,ALU,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/ALU_decoder.sv,1635831283,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/MIPS.sv,,ALU_decoder,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/MIPS.sv,1635954527,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/adder.sv,,MIPS,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/adder.sv,1635831856,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/controller.sv,,adder,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/controller.sv,1635830604,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/data_mem.sv,,controller,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/data_mem.sv,1635832240,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/data_path.sv,,data_mem,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/data_path.sv,1635831682,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/flop_r.sv,,data_path,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/flop_r.sv,1635831953,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/instr_mem.sv,,flop_r,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/instr_mem.sv,1635893761,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/main_decoder.sv,,instr_mem,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/main_decoder.sv,1635831111,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/mux2.sv,,main_decoder,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/mux2.sv,1635831989,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/registers.sv,,mux2,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/registers.sv,1635831820,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/sign_ext.sv,,registers,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/sign_ext.sv,1635831915,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/sl2.sv,,sign_ext,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/sl2.sv,1635831889,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/top.sv,,sl2,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sources_1/new/top.sv,1635892033,systemVerilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.srcs/sim_1/new/tb.sv,,top,,,,,,,,

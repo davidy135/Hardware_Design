@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# 
+# Start of session at: Thu Dec  9 22:39:49 2021
+# Process ID: 18131
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/UART/UART.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/UART/UART.sdk/webtalk/webtalk.log
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/UART/UART.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

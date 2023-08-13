@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/adder_32bit/adder_32bit.sim/sim_1/synth/timing/xsim/adder_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_32
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/adder_32bit/adder_32bit.srcs/sim_1/new/adder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_tb

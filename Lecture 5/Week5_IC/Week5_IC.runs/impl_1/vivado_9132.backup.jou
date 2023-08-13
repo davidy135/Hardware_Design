@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 30 15:18:05 2021
+# Process ID: 9132
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Week5_IC/Week5_IC.runs/impl_1
+# Command line: vivado -log IC_74138.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source IC_74138.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Week5_IC/Week5_IC.runs/impl_1/IC_74138.vdi
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Week5_IC/Week5_IC.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source IC_74138.tcl -notrace

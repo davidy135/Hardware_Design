@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/adder_8bit/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/adder_8bit/adder_8bit.srcs/sim_1/new/adder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

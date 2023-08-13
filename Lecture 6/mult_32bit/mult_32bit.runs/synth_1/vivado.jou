@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Oct 13 19:09:59 2021
+# Process ID: 1824
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/mult_32bit/mult_32bit.runs/synth_1
+# Command line: vivado -log mult.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mult.tcl
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/mult_32bit/mult_32bit.runs/synth_1/mult.vds
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/mult_32bit/mult_32bit.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source mult.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Sep 29 20:33:23 2021
+# Process ID: 25198
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 5/Decoder3to8/Decoder3to8.runs/synth_1
+# Command line: vivado -log Decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Decoder.tcl
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 5/Decoder3to8/Decoder3to8.runs/synth_1/Decoder.vds
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 5/Decoder3to8/Decoder3to8.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source Decoder.tcl -notrace

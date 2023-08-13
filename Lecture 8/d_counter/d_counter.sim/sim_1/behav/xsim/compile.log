@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sources_1/new/d_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sources_1/new/d_flipflop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_flipflop
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

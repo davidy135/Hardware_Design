@@ -1,0 +1,25 @@
+#set_property IOSTANDARD LVCMOS33 [get_ports clk]
+#set_property PACKAGE_PIN Y9 [get_ports clk]
+#create_clock -period 25 [get_ports clk]
+
+set_property IOSTANDARD LVCMOS18 [get_ports clk]
+set_property PACKAGE_PIN F21 [get_ports clk]
+set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets {clk}]
+
+set_property PACKAGE_PIN F22 [get_ports inA[0]]
+set_property PACKAGE_PIN G22 [get_ports inA[1]]
+set_property PACKAGE_PIN H22 [get_ports inA[2]]
+set_property PACKAGE_PIN H18 [get_ports inB[0]]
+set_property PACKAGE_PIN H17 [get_ports inB[1]]
+set_property PACKAGE_PIN M15 [get_ports inB[2]]
+
+set_property PACKAGE_PIN T22 [get_ports out[0]]
+set_property PACKAGE_PIN T21 [get_ports out[1]]
+set_property PACKAGE_PIN U22 [get_ports out[2]]
+set_property PACKAGE_PIN U21 [get_ports out[3]]
+set_property PACKAGE_PIN V22 [get_ports out[4]]
+set_property PACKAGE_PIN W22 [get_ports out[5]]
+
+set_property IOSTANDARD LVCMOS18 [get_ports inA]
+set_property IOSTANDARD LVCMOS18 [get_ports inB]
+set_property IOSTANDARD LVCMOS33 [get_ports out]

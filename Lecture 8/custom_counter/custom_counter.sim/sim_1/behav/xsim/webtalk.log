@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov 10 20:49:26 2021
+# Process ID: 20145
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/custom_counter/custom_counter.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/custom_counter/custom_counter.sim/sim_1/behav/xsim/xsim.dir/custom_counter_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/custom_counter/custom_counter.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/custom_counter/custom_counter.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /afs/ee.cooper.edu/user/d/david.yang/Hardware -notrace
+invalid command name "Common"
+    while executing
+"Common 17-165"
+    invoked from within
+"ERROR: [Common 17-165] Too many positional options when parsing '8/d_counter/d_counter.hw/webtalk/labtool_webtalk.log', please type 'webtalk -help' fo..."
+    (file "/afs/ee.cooper.edu/user/d/david.yang/Hardware" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Wed Nov 10 20:49:26 2021...

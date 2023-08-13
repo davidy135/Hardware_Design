@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov  2 21:52:26 2021
+# Process ID: 3328
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/MIPS/MIPS.sim/sim_1/synth/timing/xsim
+# Command line: wbtcv -mode batch -source /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/MIPS/MIPS.sim/sim_1/synth/timing/xsim/xsim.dir/tb_time_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/MIPS/MIPS.sim/sim_1/synth/timing/xsim/webtalk.log
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/MIPS/MIPS.sim/sim_1/synth/timing/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /afs/ee.cooper.edu/user/d/david.yang/Hardware -notrace
+invalid command name "ac670044"
+    while executing
+"ac670044"
+    (file "/afs/ee.cooper.edu/user/d/david.yang/Hardware" line 14)
+INFO: [Common 17-206] Exiting Webtalk at Tue Nov  2 21:52:26 2021...

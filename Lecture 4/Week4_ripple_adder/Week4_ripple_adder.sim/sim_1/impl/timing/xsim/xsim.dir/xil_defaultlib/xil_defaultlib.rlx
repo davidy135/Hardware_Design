@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.sim/sim_1/impl/timing/xsim/adder3in_tb_time_impl.v,1664733122,verilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.srcs/sources_1/new/adder4bit.v,,glbl,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.srcs/sim_1/new/adder3in_tb.v,1632597428,verilog,,,,adder3in_tb,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.srcs/sources_1/new/adder4bit.v,1632610125,verilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.srcs/sim_1/new/adder3in_tb.v,,adder3in;adder4bit,,,,,,,,

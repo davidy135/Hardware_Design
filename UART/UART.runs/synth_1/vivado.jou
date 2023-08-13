@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec 14 11:29:48 2021
+# Process ID: 4055
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/UART/UART.runs/synth_1
+# Command line: vivado -log UART_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source UART_wrapper.tcl
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/UART/UART.runs/synth_1/UART_wrapper.vds
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/UART/UART.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source UART_wrapper.tcl -notrace

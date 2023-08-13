@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov  4 02:07:44 2021
+# Process ID: 7829
+# Current directory: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv -mode batch -source /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.sim/sim_1/impl/timing/xsim/xsim.dir/tb_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: /afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Pipeline_MIPS/MIPS.sim/sim_1/impl/timing/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /afs/ee.cooper.edu/user/d/david.yang/Hardware -notrace

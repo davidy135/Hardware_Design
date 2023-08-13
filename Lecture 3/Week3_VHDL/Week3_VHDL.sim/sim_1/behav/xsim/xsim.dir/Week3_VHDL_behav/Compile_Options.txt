@@ -1,0 +1,1 @@
+-wto "215fd465833742eca04e7dc39dd430d6" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "Week3_VHDL_behav" "xil_defaultlib.Week3_VHDL" -log "elaborate.log" 

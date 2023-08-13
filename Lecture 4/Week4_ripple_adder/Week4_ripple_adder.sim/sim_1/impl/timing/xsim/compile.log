@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.sim/sim_1/impl/timing/xsim/adder3in_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder4bit
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.srcs/sources_1/new/adder4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder3in
+INFO: [VRFC 10-311] analyzing module adder4bit
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'adder4bit' [/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.srcs/sources_1/new/adder4bit.v:30]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 4/Week4_ripple_adder/Week4_ripple_adder.srcs/sim_1/new/adder3in_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder3in_tb

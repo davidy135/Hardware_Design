@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/mult_32bit/mult_32bit.sim/sim_1/synth/timing/xsim/mult32_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Week 6/mult_32bit/mult_32bit.srcs/sim_1/new/mult32_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mult32_tb

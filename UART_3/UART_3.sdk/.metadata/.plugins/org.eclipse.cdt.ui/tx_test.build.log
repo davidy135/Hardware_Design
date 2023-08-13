@@ -1,0 +1,28 @@
+18:47:06 **** Build of configuration Debug for project tx_test ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../tx_test_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building file: ../src/txtb.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/txtb.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../tx_test_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/txtb.d" -MT"src/txtb.o" -o "src/txtb.o" "../src/txtb.c"
+Finished building: ../src/txtb.c
+ 
+Building target: tx_test.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../tx_test_bsp/ps7_cortexa9_0/lib -o "tx_test.elf"  ./src/platform.o ./src/txtb.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: tx_test.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size tx_test.elf  |tee "tx_test.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  31128	   1576	  23272	  55976	   daa8	tx_test.elf
+Finished building: tx_test.elf.size
+ 
+
+18:47:07 Build Finished (took 315ms)
+

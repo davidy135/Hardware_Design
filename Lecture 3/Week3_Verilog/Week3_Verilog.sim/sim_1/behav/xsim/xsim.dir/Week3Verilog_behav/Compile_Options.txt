@@ -1,0 +1,1 @@
+-wto "1eef4c12c36343fd8dd407681cb4d78b" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Week3Verilog_behav" "xil_defaultlib.Week3Verilog" "xil_defaultlib.glbl" -log "elaborate.log" 

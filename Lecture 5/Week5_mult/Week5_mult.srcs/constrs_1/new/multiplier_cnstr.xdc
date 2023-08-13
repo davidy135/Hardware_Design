@@ -1,0 +1,11 @@
+set_property PACKAGE_PIN M15 [get_ports ROM_addr[3]]
+set_property PACKAGE_PIN H17 [get_ports ROM_addr[2]]
+set_property PACKAGE_PIN H18 [get_ports ROM_addr[1]]
+set_property PACKAGE_PIN H19 [get_ports ROM_addr[0]]
+set_property PACKAGE_PIN V22 [get_ports ROM_data[0]]
+set_property PACKAGE_PIN W22 [get_ports ROM_data[1]]
+set_property PACKAGE_PIN U19 [get_ports ROM_data[2]]
+set_property PACKAGE_PIN U14 [get_ports ROM_data[3]]
+
+set_property IOSTANDARD LVCMOS18 [get_ports ROM_addr]
+set_property IOSTANDARD LVCMOS33 [get_ports ROM_data]

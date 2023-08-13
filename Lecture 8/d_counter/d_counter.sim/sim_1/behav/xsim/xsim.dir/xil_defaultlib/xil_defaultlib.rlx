@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sim_1/new/tb.v,1636511488,verilog,,,,tb,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sources_1/new/d_counter.v,1636593185,verilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sources_1/new/d_flipflop.v,,d_counter,,,,,,,,
+/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sources_1/new/d_flipflop.v,1636573573,verilog,,/afs/ee.cooper.edu/user/d/david.yang/Hardware Design/Lecture 8/d_counter/d_counter.srcs/sim_1/new/tb.v,,d_flipflop,,,,,,,,
